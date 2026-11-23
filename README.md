@@ -615,4 +615,4 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-Built by **Jesse Jolly** · [LinkedIn](https://linkedin.com/in/jessegjolly)
+Built by **Jesse Jolly** · [LinkedIn](https://linkedin.com/in/jessegjolly) · [jessejolly.com](https://jessejolly.com)
